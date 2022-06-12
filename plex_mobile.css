@@ -358,7 +358,7 @@ div[class*="NavBar-buttonSeparator-"] {
 		position: relative;
 	}
 	div[class*="Menu-menuScroller"] {
-		max-height: 350px !important;
+		max-height: 250px !important;
 	}
 	div[class*="PrePlayPageContent-prePlayPageContent-"]
 		div[class*="PageContent-innerPageContent-"]
